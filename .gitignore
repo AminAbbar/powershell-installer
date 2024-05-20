@@ -6,3 +6,7 @@ crash.log
 
 # For built boxes
 *.box
+
+
+testing.ps1
+test-*.ps1
