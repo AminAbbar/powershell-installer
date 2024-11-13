@@ -2,7 +2,7 @@ $apps = @("Logical Gates Simulator" , "Codeblocks")
 $targets = @("logical_gates_simulator_setup.msi", "codeblocks-20.03mingw-setup.exe")
 $installerUrls = @(
     "https://netix.dl.sourceforge.net/project/gatesim/1.4/GateSimSetup-1.4.msi?viasf=1",
-    "https://netix.dl.sourceforge.net/project/codeblocks/Binaries/20.03/Windows/codeblocks-20.03-setup.exe?viasf=1"
+    "https://netix.dl.sourceforge.net/project/codeblocks/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe?viasf=1"
 )
 $installerDirs = @("C:\Program Files (x86)\Steve Kollmansberger\Logic Gate Simulator\GatesWpf.exe" , "C:\Program Files\CodeBlocks\codeblocks.exe")
 
